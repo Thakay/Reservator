@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/alexedwards/scs/v2"
-	"github.com/thakay/Reservator/pkg/config"
-	"github.com/thakay/Reservator/pkg/handlers"
-	"github.com/thakay/Reservator/pkg/render"
+	"github.com/thakay/Reservator/internal/config"
+	"github.com/thakay/Reservator/internal/handlers"
+	"github.com/thakay/Reservator/internal/render"
 	"log"
 	"net/http"
 	"time"
